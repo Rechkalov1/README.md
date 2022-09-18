@@ -1,4 +1,4 @@
 
 
-## Hi 👋 I'm Yulia 🙋🏻‍♀️
+## Hi 👋 I'm Yaroslav 
 ## I’m currently learning React 👩🏻‍💻
